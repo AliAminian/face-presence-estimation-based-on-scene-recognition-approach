@@ -6,3 +6,5 @@ In this paper we investigate the possibility of human face presence estimation i
 
 # IEEE link
 https://ieeexplore.ieee.org/document/7585762/
+
+![fig01](https://user-images.githubusercontent.com/17087119/45882648-0af70280-bdc4-11e8-9de6-86093602949e.jpg)
